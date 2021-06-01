@@ -1,0 +1,21 @@
+2021-06-01 15:34:41.438 -07:00 [INF] This is an Information log message
+2021-06-01 15:34:41.483 -07:00 [DBG] This is a Debugging log message
+2021-06-01 15:34:41.485 -07:00 [WRN] This is a Warning log message
+2021-06-01 15:34:41.488 -07:00 [ERR] This is an Error log message
+2021-06-01 15:34:41.490 -07:00 [FTL] This is a Critical log message
+2021-06-01 15:34:41.492 -07:00 [DBG] this is a debug from a different file
+
+
+2021-06-01 15:35:12.940 -07:00 [INF] This is an Information log message
+2021-06-01 15:35:12.988 -07:00 [WRN] This is a Warning log message
+2021-06-01 15:35:12.991 -07:00 [ERR] This is an Error log message
+2021-06-01 15:35:12.992 -07:00 [FTL] This is a Critical log message
+
+2021-06-01 15:37:25.667 -07:00 [VRB] This is a Trace log message
+2021-06-01 15:37:25.692 -07:00 [DBG] This is a Debugging log message
+2021-06-01 15:37:25.695 -07:00 [INF] This is an Information log message
+2021-06-01 15:37:25.724 -07:00 [WRN] This is a Warning log message
+2021-06-01 15:37:25.726 -07:00 [ERR] This is an Error log message
+2021-06-01 15:37:25.728 -07:00 [FTL] This is a Critical log message
+2021-06-01 15:37:25.730 -07:00 [DBG] this is a debug from a different file
+
