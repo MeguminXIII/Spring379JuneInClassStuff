@@ -11,11 +11,23 @@
 2021-06-01 15:35:12.991 -07:00 [ERR] This is an Error log message
 2021-06-01 15:35:12.992 -07:00 [FTL] This is a Critical log message
 
-2021-06-01 15:37:25.667 -07:00 [VRB] This is a Trace log message
-2021-06-01 15:37:25.692 -07:00 [DBG] This is a Debugging log message
-2021-06-01 15:37:25.695 -07:00 [INF] This is an Information log message
-2021-06-01 15:37:25.724 -07:00 [WRN] This is a Warning log message
-2021-06-01 15:37:25.726 -07:00 [ERR] This is an Error log message
-2021-06-01 15:37:25.728 -07:00 [FTL] This is a Critical log message
-2021-06-01 15:37:25.730 -07:00 [DBG] this is a debug from a different file
+
+2021-06-01 16:02:16.970 -07:00 [VRB] This is a Trace log message
+2021-06-01 16:02:16.993 -07:00 [DBG] This is a Debugging log message
+2021-06-01 16:02:16.995 -07:00 [INF] This is an Information log message
+2021-06-01 16:02:17.019 -07:00 [WRN] This is a Warning log message
+2021-06-01 16:02:17.021 -07:00 [ERR] This is an Error log message
+2021-06-01 16:02:17.023 -07:00 [FTL] This is a Critical log message
+2021-06-01 16:02:17.025 -07:00 [INF] Info from another file
+2021-06-01 16:02:17.026 -07:00 [WRN] Warning from another file
+2021-06-01 16:05:01.289 -07:00 [VRB] This is a Trace log message
+2021-06-01 16:05:01.313 -07:00 [DBG] This is a Debugging log message
+2021-06-01 16:05:01.316 -07:00 [INF] This is an Information log message
+2021-06-01 16:05:01.339 -07:00 [WRN] This is a Warning log message
+2021-06-01 16:05:01.341 -07:00 [ERR] This is an Error log message
+2021-06-01 16:05:01.342 -07:00 [FTL] This is a Critical log message
+2021-06-01 16:05:01.344 -07:00 [INF] Info from another file
+2021-06-01 16:05:01.347 -07:00 [WRN] Warning from another file
+
+
 
